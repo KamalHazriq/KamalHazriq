@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">A passionate Computer Science student from Malaysia</h3>
 
+(https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalhazriq&label=Profile%20views&color=0e75b6&style=flat" alt="kamalhazriq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalhazriq" alt="kamalhazriq" /></a> </p>
