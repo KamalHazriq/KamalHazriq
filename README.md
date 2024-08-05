@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **React Js, Next Js**
 
 - 📫 How to reach me **kamalhazriq@gmail.com**
 
