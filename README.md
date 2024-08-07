@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Kamal:
 <h3 align="center">A passionate Computer Science student from Malaysia</h3>
 
-🔭 I’m currently working on Personal Portfolio<br><br>🌱 I’m currently learning React Js, Next Js<br><br>💼 Currently looking for an Software Engineering internship (Sept 24' - Jan 25')<br><br>📫 How to reach me kamalhazriq@gmail.com
+🔭 I’m currently working on Personal Portfolio<br>🌱 I’m currently learning React Js, Next Js<br>💼 Currently looking for an Software Engineering internship (Sept 24' - Jan 25')<br>📫 How to reach me kamalhazriq@gmail.com
 
 
 ## 🌐 Socials:
